@@ -7,9 +7,9 @@
 ---
 
 ## 🚀 About Me
+- 🎓 **Software Engineer** with expertise in mobile app development & exploring backend development
 - 📱 **Mobile Developer** passionate about crafting smooth cross-platform apps using **Flutter** and **Kotlin (Android)**  
 - 💻 Skilled in **Java** and **Spring Boot**, building **scalable backend systems**, **REST APIs**, and **microservices**  
-- 🌐 Exploring **React** for modern frontend experiences  
 - 🔍 Curious about **system design**, **DevOps (Docker, CI/CD)**, and **cloud deployments**  
 - 📖 Lifelong learner, currently diving deep into **TypeScript** & **advanced backend architectures**  
 
