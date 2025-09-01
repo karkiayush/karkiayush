@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋, I'm Aayush Karki
 
-<!--
-**karkiayush/karkiayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/karkiayush/karkiayush/blob/main/assets/coding.gif" width="400px" alt="Coding gif"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 📱 **Mobile Developer** passionate about crafting smooth cross-platform apps using **Flutter** and **Kotlin (Android)**  
+- 💻 Skilled in **Java** and **Spring Boot**, building **scalable backend systems**, **REST APIs**, and **microservices**  
+- 🌐 Exploring **React** for modern frontend experiences  
+- 🔍 Curious about **system design**, **DevOps (Docker, CI/CD)**, and **cloud deployments**  
+- 📖 Lifelong learner, currently diving deep into **TypeScript** & **advanced backend architectures**  
+
+
+---
